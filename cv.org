@@ -36,7 +36,7 @@ web: [[http://joepatmckenna.github.io]]
 ** 7/16 - present: Research assistant, Florida State University
 - Studying the dynamics of a \beta-cell model to better understand the rhythms that govern pulsatile insulin secretion.
 ** 5/14 - 8/14: Summer intern in biomedical research, National Institutes of Health, Laboratory of Biological Modeling
-- Developed mathematical model of the insulin secretory pathway in pancreatic \beta-cells. Proposed a novel hypothesis of energy use in \beta-cells that has potential applications to the treatment and prevention of type 2 diabetes.
+- Developed mathematical model of the insulin secretory pathway in pancreatic \beta-cells. Proposed and tested a novel hypothesis of energy use in \beta-cells that has potential applications to the treatment and prevention of type 2 diabetes.
 ** 8/07 - 5/08: Undergraduate thesis: /Regular polytopes and symmetry/, St. Mary's College of Maryland
 - Wrote exposition describing rotational and reflectional symmetries of four-dimensional analogues to the Platonic solids. Created online, interactive Java applet visualizations.
 * Conferences and Workshops
