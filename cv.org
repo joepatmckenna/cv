@@ -40,6 +40,7 @@ web: [[http://www.math.fsu.edu/~jmckenna]]
 ** 8/07 - 5/08: Undergraduate thesis: /Regular polytopes and symmetry/, St. Mary's College of Maryland
 - Wrote exposition describing rotational and reflectional symmetries of four-dimensional analogues to the Platonic solids. Created online, interactive Java applet visualizations.
 * Conferences and Workshops
+- 5/17: Invited minisymposium talk, /State and parameter estimation in models of cellular electrical activity/, SIAM Conference on Dynamical Systems, Snowbird, UT
 - 2/17: Contributed poster, /Markov chain Monte Carlo optimization for fitting excitable cell current-voltage relations to voltage clamp data/, SIAM Conference on Computational Science and Engineering, Atlanta, GA
 - 11/16: Invited workshop participant, /Integrated mathematical oncology 6^{th} annual workshop: resistance/, Moffitt Cancer Center, Tampa, FL 
 - 10/16: Invited workshop participant, /Dynamical systems and data analysis in neuroscience: bridging the gap/, Mathematical Biosciences Institute, Columbus, OH
