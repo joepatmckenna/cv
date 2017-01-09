@@ -19,7 +19,7 @@ email: jmckenna@fsu.edu
 web: [[http://www.math.fsu.edu/~jmckenna]]
 * Education
 ** 8/12 - present: Ph.D. candidate in Mathematics, Florida State University, GPA: 3.9
-- Research focus: Nonlinear dynamics, Mathematical Biology, Pancreatic islets and diabetes
+- Research focus: Nonlinear dynamics, Mathematical biology, Pancreatic islets and diabetes
 - Relevant coursework: Partial/Ordinary/Stochastic differential equations, Numerical analysis, Monte Carlo methods, Machine learning, Computational biology
 ** 8/04 - 5/08: B.A. Mathematics, St. Mary's College of Maryland, major GPA: 3.5
 - GRE: Quantitative 167 (95%), Verbal 162 (90%)
