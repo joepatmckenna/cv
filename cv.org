@@ -19,7 +19,7 @@ email: jmckenna@fsu.edu
 web: [[http://www.math.fsu.edu/~jmckenna]]
 * Education
 ** 8/12 - present: Ph.D. candidate in Mathematics, Florida State University, GPA: 3.9
-- Research focus: Dynamical systems, Electrically excitable cells, Pancreatic \beta-cell physiology
+- Research focus: Nonlinear dynamics, Mathematical Biology, Pancreatic islets and diabetes
 - Relevant coursework: Partial/Ordinary/Stochastic differential equations, Numerical analysis, Monte Carlo methods, Machine learning, Computational biology
 ** 8/04 - 5/08: B.A. Mathematics, St. Mary's College of Maryland, major GPA: 3.5
 - GRE: Quantitative 167 (95%), Verbal 162 (90%)
@@ -34,9 +34,8 @@ web: [[http://www.math.fsu.edu/~jmckenna]]
 - J. P. McKenna, correct solution to /Counting block fountains of coins/ in Mathematics Magazine, Vol 83(4), Oct 2010, pp 305, [[http://www.jstor.org/stable/10.4169/mathmaga.83.4.0304a][10.4169/mathmaga.83.4.0304a]]
 * Research Experience
 ** 7/16 - present: Research assistant, Florida State University
-- Studying the dynamics of a \beta-cell model to better understand the rhythms that govern pulsatile insulin secretion.
-** 5/14 - 8/14: Summer intern in biomedical research, National Institutes of Health, Laboratory of Biological Modeling
-- Developed mathematical model of the insulin secretory pathway in pancreatic \beta-cells. Proposed and tested a novel hypothesis of energy use in \beta-cells that has potential applications to the treatment and prevention of type 2 diabetes.
+- Forming and analyzing a model of pancreatic \beta-cells to better understand their role in diabetes. Specifically, investigating the importance of Ca^{2+}-activation of mitochondria for maintaining normal oscillatory insulin release from \beta-cells. Funding from NSF grant DMS 1612193. 
+** 5/14 - 8/14: Intern in biomedical research, National Institutes of Health, Laboratory of Biological Modeling
 ** 8/07 - 5/08: Undergraduate thesis: /Regular polytopes and symmetry/, St. Mary's College of Maryland
 - Wrote exposition describing rotational and reflectional symmetries of four-dimensional analogues to the Platonic solids. Created online, interactive Java applet visualizations.
 * Conferences and Workshops
@@ -67,11 +66,11 @@ web: [[http://www.math.fsu.edu/~jmckenna]]
 - 9/07 - 5/08: /Calculus I/ recitation instructor
 * Work Experience
 ** 7/11 - 6/12: Community-based project manager, Peace Corps Ghana, West Africa
-- Coordinated the proposal, international fundraising, construction, and regular operation of a junior high school computer lab that introduced computer-based learning to educators and students in a remote village. Resulted in the best-in-district performance on national high school entrance exams for three subsequent years: 2013, 2014, and 2015.
+- Coordinated the proposal, international fundraising, construction, and regular operation of a junior high school computer lab that introduced computer-based learning to educators and students in a remote village. Resulted in the best-in-district performance on national high school entrance exams for subsequent years: 2013-16.
 ** 11/10 - 6/12: Editor, /Celebrate Languages Audio Project/, Peace Corps Ghana, West Africa
 - Used Java program to automate language-learning lesson production from interviews with speakers of languages native to Ghana, West Africa.
 ** 11/08 - 3/09: Computer assembler, FreeGeek, Chicago, IL
-- Assembled PCs from donated parts and installed Linux to offer low-cost computing to the economically disadvantaged.
+- Assembled PCs from donated parts and installed GNU Linux to offer low-cost computing to the economically disadvantaged.
 * Technical Abilities
 - Programming: C, C++, Fortran, Python, MATLAB, UNIX, Java, HTML, Javascript, CSS, $\textstyle{\LaTeX}$, XPP, AUTO
 - Language: English (native), French (intermediate), Twi (intermediate)
