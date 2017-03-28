@@ -41,7 +41,7 @@ web: [[http://www.math.fsu.edu/~jmckenna]]
 * Conferences and Workshops
 - 5/17: Invited minisymposium talk, /State and parameter estimation in models of cellular electrical activity/, SIAM Conference on Dynamical Systems, Snowbird, UT
 - 3/17: Invited minisymposium talk, /Recent advances in experimentally-guided mathematical biology/, SIAM Southeastern Atlantic Section Conference, Tallahassee, FL
-- 3/17: Contributed poster, /Dynamic Neuron Networks with Fitzhugh-Nagumo Nodes/, SIAM Southeastern Atlantic Section Conference, Tallahassee, FL
+- 3/17: Contributed poster, /Dynamic neuron networks with Fitzhugh-Nagumo nodes/, SIAM Southeastern Atlantic Section Conference, Tallahassee, FL
 - 2/17: Contributed poster, /Markov chain Monte Carlo optimization for fitting excitable cell current-voltage relations to voltage clamp data/, SIAM Conference on Computational Science and Engineering, Atlanta, GA
 - 11/16: Invited workshop participant, /Integrated mathematical oncology 6^{th} annual workshop: resistance/, Moffitt Cancer Center, Tampa, FL 
 - 10/16: Invited workshop participant, /Dynamical systems and data analysis in neuroscience: bridging the gap/, Mathematical Biosciences Institute, Columbus, OH
