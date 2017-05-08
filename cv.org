@@ -1,5 +1,5 @@
 #+author: Joseph P. McKenna
-#+email: jmckenna@fsu.edu
+#+email: joepatmckenna@gmail.com
 #+title: Curriculum Vitae
 #+options: *:t ::nil \n:t ^:t author:t date:t email:t num:nil timestamp:t toc:nil html-postamble:nil
 #+html_doctype: html5
@@ -10,15 +10,12 @@
 #+latex_class: cv
 
 * Contact Information
-Florida State University
-Department of Mathematics
-1017 Academic Way
-Love Building Room 208
-Tallahassee, FL 32306-4510
-email: jmckenna@fsu.edu
+3132 Clarendon Dr.
+Annapolis, MD 21403
+email: joepatmckenna@gmail.com
 web: [[http://www.math.fsu.edu/~jmckenna]]
 * Education
-** 8/12 - present: Ph.D. candidate in Mathematics, Florida State University, GPA: 3.9
+** 8/12 - 5/17: Ph.D. in Mathematics, Florida State University, GPA: 3.9
 - Research focus: Nonlinear dynamics, Mathematical biology, Pancreatic islets and diabetes
 - Relevant coursework: Partial/Ordinary/Stochastic differential equations, Numerical analysis, Monte Carlo methods, Machine learning, Computational biology
 ** 8/04 - 5/08: B.A. Mathematics, St. Mary's College of Maryland, major GPA: 3.5
@@ -33,7 +30,7 @@ web: [[http://www.math.fsu.edu/~jmckenna]]
 - J. P. McKenna, correct solution to /Permutations with specified left-to-right maxima/ in Mathematics Magazine, Vol 84(2), Apr 2011, pp 153-154, [[http://dx.doi.org/10.4169/math.mag.84.2.150][10.4169/math.mag.84.2.150]]
 - J. P. McKenna, correct solution to /Counting block fountains of coins/ in Mathematics Magazine, Vol 83(4), Oct 2010, pp 305, [[http://www.jstor.org/stable/10.4169/mathmaga.83.4.0304a][10.4169/mathmaga.83.4.0304a]]
 * Research Experience
-** 7/16 - present: Research assistant, Florida State University
+** 7/16 - 5/17: Research assistant, Florida State University
 - Forming and analyzing a model of pancreatic \beta-cells to better understand their role in diabetes. Specifically, investigating the importance of Ca^{2+}-activation of mitochondria for maintaining normal oscillatory insulin release from \beta-cells. Funding from NSF grant DMS 1612193. 
 ** 5/14 - 8/14: Intern in biomedical research, National Institutes of Health, Laboratory of Biological Modeling
 ** 8/07 - 5/08: Undergraduate thesis: /Regular polytopes and symmetry/, St. Mary's College of Maryland
