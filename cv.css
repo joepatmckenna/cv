@@ -3,7 +3,7 @@
     src: url('cmunss.otf');
 }
 body {
-    font-family: "Computer Modern", sans-serif;
+    /* font-family: "Computer Modern", sans-serif; */
     font-weight: normal;
     width:960px;
     padding: 0;

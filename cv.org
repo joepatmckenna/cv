@@ -4,7 +4,7 @@
 #+options: *:t ::nil \n:t ^:t author:t date:t email:t num:nil timestamp:t toc:nil html-postamble:nil
 #+html_doctype: html5
 #+html_mathjax: font: Neo-Euler
-#+html_head: <link rel="stylesheet" type="text/css" href="style.css">
+#+html_head: <link rel="stylesheet" type="text/css" href="cv.css">
 #+subtitle: Joseph P. McKenna
 #+infojs_opt: view:showall sdepth:2 ltoc:nil mouse:#eee
 #+latex_class: cv
