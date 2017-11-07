@@ -10,9 +10,11 @@
 #+latex_class: cv
 
 * Contact Information
-3132 Clarendon Dr.
-Annapolis, MD 21403
-email: joepatmckenna@gmail.com
+Laboratory of Biological Modeling, NIDDK, NIH
+Building 12A, Room 4003
+12 South Dr. MSC 5621
+Bethesda, MD 20892-5621
+email: joseph.mckenna@nih.gov
 web: [[https://joepatmckenna.github.io]]
 * Education
 ** 8/12 - 5/17: Ph.D. Mathematical Biology, Florida State University, GPA: 3.9
@@ -24,6 +26,7 @@ web: [[https://joepatmckenna.github.io]]
 ** 9/09 - 12/09: Graduate non-degree, University of Illinois at Chicago, GPA: 4.0
 - Relevant coursework: Topology, Logic, $\textstyle{\LaTeX}$
 * Publications
+- E. Kim, R. Schenck, J. West, W. Cross, V. Harris, J. McKenna, H. Cho, E. Coker, S. Lee-Kramer, K. Tsai, E. Flores, C. D. Gatenbee, /Targeting the untargetable: predicting Pramlintide resistance using a neural network based cellular automata/, bioRxiv, 2017, [[http://dx.doi.org/10.1101/211383][10.1101/211383]]
 - J. P. McKenna, R. Dhumpa, N Mukhitov, M. G. Roper, and R. Bertram, /Glucose oscillations can activate an endogenous oscillator in pancreatic islets/, PLOS Computational Biology, Vol 12(10), 2016, pp e1005143, [[http://dx.doi.org/10.1371/journal.pcbi.1005143][10.1371/journal.pcbi.1005143]]
 - J. P. McKenna, J. Ha, M. J. Merrins, L. S. Satin, A. Sherman, and R. Bertram, /Calcium effects on ATP production and consumption have regulatory roles on oscillatory islet activity/, Biophysical Journal, Vol 110, Feb 2016, pp 733-742, [[http://dx.doi.org/10.1016/j.bpj.2015.11.3526][10.1016/j.bpj.2015.11.3526]]
 - M. J. Merrins, C. Poudel, J. P. McKenna, J. Ha, A. Sherman, R. Bertram, and L. S. Satin, /Phase analysis of metabolic oscillations and membrane potential in pancreatic islet \beta-cells/, Biophysical Journal, Vol 110, Feb 2016, pp 691-699, [[http://dx.doi.org/10.1016/j.bpj.2015.12.029][10.1016/j.bpj.2015.12.029]]
